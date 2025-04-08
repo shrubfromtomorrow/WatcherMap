@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "74660b6412aec0b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9643f883ff1cfbb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "183cb696aaf9cf0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stormy Coast (WSKC).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stormy Coast (WSKC)"
+            }
+          },
+          {
+            "id": "a53b69013058fd6f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10315819d236dc1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "928b6abe2b90e20b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8711f58e5a4ebe77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22ac0fb1355e72c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4b3de4fa19e5a535",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb07d727906433bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "459880b46e265c3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e578425e6959fbe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aether Ridge.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aether Ridge"
+            }
+          },
+          {
+            "id": "6f3e93ef4723646d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aether Ridge.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aether Ridge"
+            }
+          },
+          {
+            "id": "f71c789c24939fc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2596a49bc4df98e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aether Ridge.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aether Ridge"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "183cb696aaf9cf0a",
+  "lastOpenFiles": [
+    "Shrouded Coast (WSKD).md",
+    "Ancient Urban (WAUA).md",
+    "Shattered Terrace (WARA).md",
+    "Desolate Tract (WTDB).md",
+    "Rusted Wrecks (WRRA).md",
+    "The Surface (WARG).md",
+    "Sunlit Port (WSKB).md",
+    "Coral Caves (WRFA).md",
+    "Torrential Railways (WSKA).md",
+    "Daemon (WRSA).md",
+    "Outer Rim (WORA).md",
+    "Unfortunate Evolution (WSSR).md",
+    "Verdant Waterways (WVWA).md",
+    "Stormy Coast (WSKC).md",
+    "Turbulent Pump (WRFB).md",
+    "Signal Spires (WPTA).md",
+    "Badlands (WBLA).md",
+    "Aether Ridge (WARF).md",
+    "Heat Ducts (WARE).md",
+    "Cold Storage (WARD).md",
+    "Fetid Glen (WARC).md",
+    "Salination (WARB).md",
+    "Torrid Desert (WTDA).md",
+    "Warps.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 19.md"
+  ]
+}

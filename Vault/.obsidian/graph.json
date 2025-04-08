@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#rotImmune  ",
+      "color": {
+        "a": 1,
+        "rgb": 10934933
+      }
+    },
+    {
+      "query": "tag:#echo  ",
+      "color": {
+        "a": 1,
+        "rgb": 15651999
+      }
+    },
+    {
+      "query": "tag:#rotted  ",
+      "color": {
+        "a": 1,
+        "rgb": 15566742
+      }
+    },
+    {
+      "query": "tag:#startingRegion  ",
+      "color": {
+        "a": 1,
+        "rgb": 9557987
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.65677083333333,
+  "lineSizeMultiplier": 2.4734375,
+  "collapse-forces": false,
+  "centerStrength": 0.505208333333333,
+  "repelStrength": 11.6666666666667,
+  "linkStrength": 1,
+  "linkDistance": 245,
+  "scale": 1.0534979423868331,
+  "close": false
+}
