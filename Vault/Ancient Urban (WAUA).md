@@ -4,5 +4,8 @@ tags:
   - notDaemon
   - region
   - rotImmune
-types: echo
+types:
+  - rotImmune
+  - echo
+  - region
 ---

@@ -13,8 +13,20 @@ record_types:
     fill: "#858585"
     stroke: "#858585"
   echo:
-    fill: "#eed49f"
-    stroke: "#eed49f"
+    fill: "#df8e1d"
+    stroke: "#df8e1d"
+  region:
+    fill: "#4c4f69"
+    stroke: "#4c4f69"
+  rotImmune:
+    fill: "#40a02b"
+    stroke: "#40a02b"
+  startingRegion:
+    fill: "#04a5e5"
+    stroke: "#04a5e5"
+  rotted:
+    fill: "#d20f39"
+    stroke: "#d20f39"
 link_types:
   undefined:
     stroke: simple
@@ -22,8 +34,8 @@ link_types:
 references_as_nodes: false
 references_type_label: references
 record_filters: []
-graph_background_color: "#ffffff"
-graph_highlight_color: "#ff6a6a"
+graph_background_color: "#eff1f5"
+graph_highlight_color: "#ea76cb"
 graph_highlight_on_hover: true
 graph_text_size: 10
 graph_arrows: true
@@ -31,7 +43,7 @@ node_size_method: unique
 node_size: 4
 node_size_max: 20
 node_size_min: 2
-attraction_force: 200
+attraction_force: 600
 attraction_distance_max: 250
 attraction_vertical: 0
 attraction_horizontal: 0
@@ -40,9 +52,9 @@ record_metas: []
 generate_id: always
 link_context: tooltip
 hide_id_from_record_header: false
-title: ""
+title: "Watcher Region Map"
 author: "shrubfromtomorrow"
-description: ""
+description: "A region connection map for Rain World: The Watcher"
 keywords: []
 link_symbol: ""
 csl: ""
